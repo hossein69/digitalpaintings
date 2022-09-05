@@ -2,10 +2,10 @@
 about learning digitalpaintings. personal website
 first
 cd server
-npm init
+npm install
 npm start
 
 new terminal
 cd client
-npm init
+npm install
 npm start
